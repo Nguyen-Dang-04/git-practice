@@ -1,0 +1,2 @@
+So thich: Lap trinh, doc sach 
+Ky nang: C#, Unity, Git 
